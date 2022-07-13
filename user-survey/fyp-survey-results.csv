@@ -1,0 +1,17 @@
+Participant,"Overall, I am satisfied with how easy it is to use this system.",It was simple to use this system.,I was able to complete the tasks and scenarios quickly using this system.,I felt comfortable using this system.,It was easy to learn to use this system.,I believe I could become productive quickly using this system.,The system gave error messages that clearly told me how to fix problems.,"Whenever I made a mistake using the system, I could recover easily and quickly.","The information (such as online help, on-screen messages, and other documentation) provided with this system was clear.",It was easy to find the information I needed.,The information was effective in helping me complete the tasks and scenarios.,The organization of information on the system screens was clear.,The interface of this system was pleasant.,I liked using the interface of this system.,This system has all the functions and capabilities I expect it to have.,"Overall, I am satisfied with this system."
+A,2,2,1,1,2,1,,,1,1,1,1,1,1,1,1
+B,2,2,1,3,2,4,3,2,2,2,1,4,3,3,3,2
+C,1,1,1,1,1,1,,,1,1,1,1,1,1,1,1
+D,2,2,3,5,2,2,5,4,1,2,2,3,2,2,2,2
+E,1,1,1,3,3,1,,1,,1,1,1,1,1,1,1
+F,2,3,3,3,2,5,3,4,2,3,2,2,5,3,3,3
+G,2,3,2,2,2,1,4,2,2,3,2,3,2,2,4,1
+H,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+I,2,2,1,2,1,2,1,1,1,1,1,1,2,2,2,1
+J,1,1,1,1,1,4,4,4,1,1,1,2,2,2,4,1
+K,2,1,1,2,3,2,1,3,3,1,2,3,2,2,1,2
+L,2,2,2,2,2,3,2,2,,2,2,2,1,1,2,2
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+OVERALL,SYSUSE,INFOQUAL,INTERQUAL,,,,,,,,,,,,,
+1.859459459,1.861111111,1.892307692,1.8125,,,,,,,,,,,,,

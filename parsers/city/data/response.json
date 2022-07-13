@@ -1,0 +1,74 @@
+{
+  "results": [
+    {
+      "address_components": [
+        {
+          "long_name": "New York Stewart International Airport",
+          "short_name": "New York Stewart Int'l Airport",
+          "types": ["airport", "establishment", "point_of_interest"]
+        },
+        {
+          "long_name": "1180",
+          "short_name": "1180",
+          "types": ["street_number"]
+        },
+        {
+          "long_name": "1st Street",
+          "short_name": "1st St",
+          "types": ["route"]
+        },
+        {
+          "long_name": "New Windsor",
+          "short_name": "New Windsor",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Orange County",
+          "short_name": "Orange County",
+          "types": ["administrative_area_level_2", "political"]
+        },
+        {
+          "long_name": "New York",
+          "short_name": "NY",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "United States",
+          "short_name": "US",
+          "types": ["country", "political"]
+        },
+        {
+          "long_name": "12553",
+          "short_name": "12553",
+          "types": ["postal_code"]
+        }
+      ],
+      "formatted_address": "New York Stewart Int'l Airport (SWF), 1180 1st St, New Windsor, NY 12553, USA",
+      "geometry": {
+        "location": {
+          "lat": 41.4984032,
+          "lng": -74.10086269999999
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 41.4997423802915,
+            "lng": -74.0995478197085
+          },
+          "southwest": {
+            "lat": 41.4970444197085,
+            "lng": -74.10224578029151
+          }
+        }
+      },
+      "partial_match": true,
+      "place_id": "ChIJFw_tgxQs3YkR3ZW2YKVU1Vw",
+      "plus_code": {
+        "compound_code": "FVXX+9M New Windsor, NY",
+        "global_code": "87H7FVXX+9M"
+      },
+      "types": ["airport", "establishment", "point_of_interest"]
+    }
+  ],
+  "status": "OK"
+}

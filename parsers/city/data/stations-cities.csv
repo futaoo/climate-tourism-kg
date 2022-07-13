@@ -1,0 +1,634 @@
+{
+   "plus_code" : {
+      "compound_code" : "56H9+87Q Calera, AL, USA",
+      "global_code" : "865M56H9+87Q"
+   },
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "465",
+               "short_name" : "465",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Weather Vane Road",
+               "short_name" : "Weather Vane Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Calera",
+               "short_name" : "Calera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35040",
+               "short_name" : "35040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "465 Weather Vane Rd, Calera, AL 35040, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.1791145,
+               "lng" : -86.7822194
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.18046348029151,
+                  "lng" : -86.78087041970851
+               },
+               "southwest" : {
+                  "lat" : 33.17776551970851,
+                  "lng" : -86.78356838029151
+               }
+            }
+         },
+         "place_id" : "ChIJoYDpYAcviYgRjFoEpP7nnOY",
+         "plus_code" : {
+            "compound_code" : "56H9+J4 Calera, AL, USA",
+            "global_code" : "865M56H9+J4"
+         },
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shelby County Airport",
+               "short_name" : "Shelby County Airport",
+               "types" : [ "airport", "establishment", "point_of_interest" ]
+            },
+            {
+               "long_name" : "265",
+               "short_name" : "265",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Weather Vane Road",
+               "short_name" : "Weather Vane Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Calera",
+               "short_name" : "Calera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35040",
+               "short_name" : "35040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Shelby County Airport, 265 Weather Vane Rd, Calera, AL 35040, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.1783035,
+               "lng" : -86.7830228
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1796524802915,
+                  "lng" : -86.78167381970849
+               },
+               "southwest" : {
+                  "lat" : 33.1769545197085,
+                  "lng" : -86.78437178029149
+               }
+            }
+         },
+         "place_id" : "ChIJ9yHDywAviYgRq-bRdaVEMLg",
+         "plus_code" : {
+            "compound_code" : "56H8+8Q Calera, AL, USA",
+            "global_code" : "865M56H8+8Q"
+         },
+         "types" : [ "airport", "establishment", "point_of_interest" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "465",
+               "short_name" : "465",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Weather Vane Road",
+               "short_name" : "Weather Vane Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alabaster",
+               "short_name" : "Alabaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35007",
+               "short_name" : "35007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "465 Weather Vane Rd, Alabaster, AL 35007, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.179559,
+               "lng" : -86.782079
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.18090798029149,
+                  "lng" : -86.78073001970849
+               },
+               "southwest" : {
+                  "lat" : 33.17821001970849,
+                  "lng" : -86.78342798029151
+               }
+            }
+         },
+         "place_id" : "ChIJoYDpYAcviYgRc9SKLIwmAJY",
+         "plus_code" : {
+            "compound_code" : "56H9+R5 Alabaster, AL, USA",
+            "global_code" : "865M56H9+R5"
+         },
+         "types" : [ "street_address" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "56H9+87",
+               "short_name" : "56H9+87",
+               "types" : [ "plus_code" ]
+            },
+            {
+               "long_name" : "Calera",
+               "short_name" : "Calera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "56H9+87 Calera, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.178375,
+                  "lng" : -86.78175
+               },
+               "southwest" : {
+                  "lat" : 33.17825,
+                  "lng" : -86.781875
+               }
+            },
+            "location" : {
+               "lat" : 33.17835,
+               "lng" : -86.78178
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.17966148029149,
+                  "lng" : -86.78046351970849
+               },
+               "southwest" : {
+                  "lat" : 33.1769635197085,
+                  "lng" : -86.78316148029151
+               }
+            }
+         },
+         "place_id" : "GhIJ7Z48LNSWQEARrir7rgiyVcA",
+         "plus_code" : {
+            "compound_code" : "56H9+87 Calera, AL, USA",
+            "global_code" : "865M56H9+87"
+         },
+         "types" : [ "plus_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "KBMX Radar Tower",
+               "short_name" : "KBMX Radar Tower",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Weather Vane Road",
+               "short_name" : "Weather Vane Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Calera",
+               "short_name" : "Calera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35040",
+               "short_name" : "35040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "KBMX Radar Tower, Weather Vane Rd, Calera, AL 35040, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 33.1800946,
+               "lng" : -86.78267339999999
+            },
+            "location_type" : "ROOFTOP",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1814435802915,
+                  "lng" : -86.7813244197085
+               },
+               "southwest" : {
+                  "lat" : 33.1787456197085,
+                  "lng" : -86.7840223802915
+               }
+            }
+         },
+         "place_id" : "ChIJW4UUbgcviYgRR54Tl-dLmNw",
+         "types" : [ "premise" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "265",
+               "short_name" : "265",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Weather Vane Road",
+               "short_name" : "Weather Vane Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Alabaster",
+               "short_name" : "Alabaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "35007",
+               "short_name" : "35007",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "265 Weather Vane Rd, Alabaster, AL 35007, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.1797925,
+                  "lng" : -86.77928949999999
+               },
+               "southwest" : {
+                  "lat" : 33.1741229,
+                  "lng" : -86.78137959999999
+               }
+            },
+            "location" : {
+               "lat" : 33.1769766,
+               "lng" : -86.7802677
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.1797925,
+                  "lng" : -86.77898556970848
+               },
+               "southwest" : {
+                  "lat" : 33.1741229,
+                  "lng" : -86.78168353029149
+               }
+            }
+         },
+         "place_id" : "ChIJlbMdPKoviYgRxoFwCtwTT-0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calera",
+               "short_name" : "Calera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calera, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.183742,
+                  "lng" : -86.66475699999999
+               },
+               "southwest" : {
+                  "lat" : 33.0613679,
+                  "lng" : -86.802072
+               }
+            },
+            "location" : {
+               "lat" : 33.1028965,
+               "lng" : -86.7535975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.183742,
+                  "lng" : -86.66475699999999
+               },
+               "southwest" : {
+                  "lat" : 33.0613679,
+                  "lng" : -86.802072
+               }
+            }
+         },
+         "place_id" : "ChIJ9S3nQrEriYgRvG2AoA7ywJ8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "35040",
+               "short_name" : "35040",
+               "types" : [ "postal_code" ]
+            },
+            {
+               "long_name" : "Calera",
+               "short_name" : "Calera",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calera, AL 35040, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.202765,
+                  "lng" : -86.6034021
+               },
+               "southwest" : {
+                  "lat" : 33.0010598,
+                  "lng" : -86.83027799999999
+               }
+            },
+            "location" : {
+               "lat" : 33.1034486,
+               "lng" : -86.72151749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.202765,
+                  "lng" : -86.6034021
+               },
+               "southwest" : {
+                  "lat" : 33.0010598,
+                  "lng" : -86.83027799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0doNuRMyiYgRVi6x2p0t_J4",
+         "types" : [ "postal_code" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shelby County, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5461558,
+                  "lng" : -86.340937
+               },
+               "southwest" : {
+                  "lat" : 33.018664,
+                  "lng" : -87.02684590000001
+               }
+            },
+            "location" : {
+               "lat" : 33.3039292,
+               "lng" : -86.6611083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5461558,
+                  "lng" : -86.340937
+               },
+               "southwest" : {
+                  "lat" : 33.018664,
+                  "lng" : -87.02684590000001
+               }
+            }
+         },
+         "place_id" : "ChIJIw3ADV7jiIgRP6sugMWjQVM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alabama, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.008028,
+                  "lng" : -84.888246
+               },
+               "southwest" : {
+                  "lat" : 30.144425,
+                  "lng" : -88.4732269
+               }
+            },
+            "location" : {
+               "lat" : 32.3182314,
+               "lng" : -86.902298
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.008028,
+                  "lng" : -84.888246
+               },
+               "southwest" : {
+                  "lat" : 30.144425,
+                  "lng" : -88.4732269
+               }
+            }
+         },
+         "place_id" : "ChIJdf5LHzR_hogR6czIUzU0VV4",
+         "types" : [ "administrative_area_level_1", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "United States",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            },
+            "location" : {
+               "lat" : 37.09024,
+               "lng" : -95.712891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 71.5388001,
+                  "lng" : -66.885417
+               },
+               "southwest" : {
+                  "lat" : 18.7763,
+                  "lng" : 170.5957
+               }
+            }
+         },
+         "place_id" : "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

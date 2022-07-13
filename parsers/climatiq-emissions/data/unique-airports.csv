@@ -1,0 +1,338 @@
+01/01/2022,Dallas/Fort Worth International,KDFW,DFW,2022-01-01T19:14:00+00:00,Fort Lauderdale–Hollywood International,KFLL,FLL,British Airways,BAW,4806,BA4806,BAW4806,lat1,long1,lat2,long2
+01/01/2022,San Francisco International,KSFO,SFO,2022-01-01T23:10:00+00:00,San Luis County Regional Airport,KSBP,SBP,Lufthansa,DLH,9376,LH9376,DLH9376,37.6213129,-122.3789554,California
+01/01/2022,Chicago O'hare International,KORD,ORD,,Salt Lake City International,KSLC,SLC,SAS,SAS,8733,SK8733,SAS8733,41.98028,-87.9089979,Chicago
+01/01/2022,Honolulu International,PHNL,HNL,2022-01-01T19:04:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3656,AM3656,AMX3656,21.3186477,-157.9253031,Honolulu
+01/01/2022,Seattle-Tacoma International,KSEA,SEA,2022-01-01T23:18:00+00:00,Eugene,KEUG,EUG,Qatar Airways,QTR,2116,QR2116,QTR2116,47.4502499,-122.3088165,Seattle
+01/01/2022,George Bush Intercontinental,KIAH,IAH,2022-01-01T19:29:00+00:00,Chicago O'hare International,KORD,ORD,Lufthansa,DLH,7533,LH7533,DLH7533,29.9902199,-95.3367827,Houston
+01/01/2022,Hartsfield-jackson Atlanta International,KATL,ATL,2022-01-01T20:38:00+00:00,Newark Liberty International,KEWR,EWR,Air Canada,ACA,3049,AC3049,ACA3049,33.6407282,-84.4277001,Atlanta
+01/01/2022,Stewart,KSWF,SWF,,Greater Binghamton,KBGM,BGM,empty,,,,,41.4984032,-74.1008627,New Windsor
+01/01/2022,John F Kennedy International,KJFK,JFK,2022-01-02T00:56:00+00:00,Logan International,KBOS,BOS,Aer Lingus,EIN,5018,EI5018,EIN5018,40.6413113,-73.7781383,New York
+01/01/2022,Denver International,KDEN,DEN,2022-01-02T01:13:00+00:00,Orlando International,KMCO,MCO,Air Canada,ACA,5068,AC5068,ACA5068,39.8560963,-104.6737376,Denver
+01/01/2022,Municipal/Baer Field,KFWA,FWA,2022-01-01T06:20:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5256,AA5256,AAL5256,40.9774796,-85.1960362,Fort Wayne
+01/01/2022,Saipan International,PGSN,SPN,2022-01-01T07:17:00+00:00,Guam International,PGUM,GUM,United Airlines,UAL,117,UA117,UAL117,15.1197429,145.7282789,Northern Mariana Islands
+01/01/2022,Guam International,PGUM,GUM,2022-01-01T09:30:00+00:00,Honolulu International,PHNL,HNL,United Airlines,UAL,200,UA200,UAL200,13.4856453,144.8001377,Chalan Pasaheru
+01/01/2022,Louisville International (Standiford Field),KSDF,SDF,2022-01-01T02:48:00+00:00,Ted Stevens Anchorage International Airport,PANC,ANC,UPS Airlines,UPS,102,5X102,UPS102,38.175662,-85.7369231,Louisville
+01/01/2022,Luis Munoz Marin International,TJSJ,SJU,,Miami International Airport,KMIA,MIA,Amerijet International,AJT,8543,M68543,AJT8543,18.4339085,-65.9956193,Carolina
+01/01/2022,Port Columbus International,KCMH,CMH,,Lambert-St. Louis International,KSTL,STL,GoJet Airlines,GJS,4556,G74556,GJS4556,39.9999399,-82.8871767,Columbus
+01/01/2022,Billings,KBIL,BIL,,Great Falls International Airport,KGTF,GTF,empty,,,,,45.8035081,-108.5379142,Billings
+01/01/2022,Great Falls International Airport,KGTF,GTF,,Glacier Park International,KGPI,FCA,empty,,,,,47.4825016,-111.3566299,Great Falls
+01/01/2022,John Wayne,KSNA,SNA,2022-01-01T19:43:00+00:00,Tucson International Airport,KTUS,TUS,Sawyer Aviation,SJA,19,,SJA19,33.6761901,-117.8674759,Santa Ana
+01/01/2022,Minneapolis - St. Paul International,KMSP,MSP,,Chicago O'hare International,KORD,ORD,American Airlines,AAL,975,AA975,AAL975,44.8847554,-93.2222846,United States
+01/01/2022,Los Angeles International,KLAX,LAX,2022-01-01T01:23:00+00:00,Will Rogers World Airport,KOKC,OKC,Delta Air Lines,DAL,8838,DL8838,DAL8838,33.9415889,-118.40853,Los Angeles
+01/01/2022,Nashville International,KBNA,BNA,2022-01-01T02:35:00+00:00,Atlantic City International,KACY,ACY,empty,,,,,36.126317,-86.6773713,Nashville
+01/01/2022,Borinquen,TJBQ,BQN,2022-01-01T02:16:00+00:00,Newark Liberty International,KEWR,EWR,United Airlines,UAL,1162,UA1162,UAL1162,18.4953813,-67.1355779,Aguadilla
+01/01/2022,Sky Harbor International,KPHX,PHX,,Hartsfield-jackson Atlanta International,KATL,ATL,Delta Air Lines,DAL,940,DL940,DAL940,33.435249,-112.010124,Central City
+01/01/2022,Detroit Metropolitan Wayne County,KDTW,DTW,2022-01-01T22:11:00+00:00,Logan International,KBOS,BOS,Air France,AFR,2157,AF2157,AFR2157,42.2162491,-83.3553642,West G Rogell Drive
+01/01/2022,Mc Carran International,KLAS,LAS,2022-01-01T23:51:00+00:00,Miami International Airport,KMIA,MIA,British Airways,BAW,5330,BA5330,BAW5330,36.0839998,-115.1537389,Las Vegas
+01/01/2022,Orlando International,KMCO,MCO,2022-01-01T22:42:00+00:00,George Bush Intercontinental,KIAH,IAH,Spirit Airlines,NKS,8104,NK8104,NKS8104,28.4179167,-81.3041451,Southeast Orlando
+01/01/2022,Bob Hope,KBUR,BUR,2022-01-01T20:23:00+00:00,San Diego International Airport,KSAN,SAN,empty,,,,,34.1949582,-118.3518845,Los Angeles County
+01/01/2022,Wilmington International,KILM,ILM,,Westchester County Apt,KHPN,HPN,Flexjet,LXJ,413,LXJ413,LXJ413,34.2669541,-77.9105092,Wilmington
+01/01/2022,Richmond International Airport,KRIC,RIC,2022-01-02T00:54:00+00:00,Lambert-St. Louis International,KSTL,STL,United Airlines,UAL,4556,UA4556,UAL4556,37.5065795,-77.3208112,Richmond
+01/01/2022,Newark Liberty International,KEWR,EWR,,Port Columbus International,KCMH,CMH,Lufthansa,DLH,7662,LH7662,DLH7662,40.6895314,-74.1744624,Newark
+01/01/2022,Norfolk International Airport,KORF,ORF,,Baltimore/Washington International Thurgood Marshall,KBWI,BWI,Southwest Airlines,SWA,2922,WN2922,SWA2922,36.8956837,-76.2000161,Norfolk
+01/01/2022,Walker Field,KGJT,GJT,2022-01-01T16:28:00+00:00,Westchester County Apt,KHPN,HPN,XOJET,XOJ,793,XOJ793,XOJ793,39.1222307,-108.5291468,Grand Junction
+01/01/2022,Logan International,KBOS,BOS,2022-01-01T20:58:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,American Airlines,AAL,9257,AA9257,AAL9257,42.3656132,-71.0095602,Massachusetts
+01/01/2022,Reno-Tahoe International,KRNO,RNO,2022-01-01T23:46:00+00:00,John F Kennedy International,KJFK,JFK,American Airlines,AAL,9120,AA9120,AAL9120,39.4995907,-119.7680951,Reno
+01/01/2022,Grand Forks,KGFK,GFK,,Bemidji,KBJI,BJI,empty,,,,,47.942861,-97.176582,Grand Forks
+01/01/2022,Rapid City Regional Airport,KRAP,RAP,,Joe Foss Field Airport,KFSD,FSD,Alpine Air Express,AIP,5404,5A5404,AIP5404,44.0383798,-103.0605163,Rapid City
+01/01/2022,Louis Armstrong New Orléans International Airport,KMSY,MSY,,Love Field,KDAL,DAL,empty,,,,,29.9910905,-90.2592299,Kenner
+01/01/2022,Colorado Springs,KCOS,COS,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,2756,UA2756,UAL2756,38.801712,-104.7026039,Colorado Springs
+01/01/2022,"Charleston, AFB Municipal",KCHS,CHS,,Raleigh-durham International Airport,KRDU,RDU,empty,,,,,32.8942676,-80.038159,North Charleston
+01/01/2022,Pitt-Greenville,KPGV,PGV,,Raleigh-durham International Airport,KRDU,RDU,empty,,,,,35.6338958,-77.3812179,Greenville
+01/01/2022,Kenai,PAEN,ENA,,Ted Stevens Anchorage International Airport,PANC,ANC,Grant Aviation,GUN,6210,GV6210,GUN6210,60.56501,-151.2467651,Kenai
+01/01/2022,Lee Bird Field,KLBF,LBF,2022-01-01T23:57:00+00:00,Colorado Springs,KCOS,COS,empty,,,,,41.1326828,-100.6979522,East Lee Bird Drive
+01/01/2022,General Mitchell International,KMKE,MKE,2022-01-01T23:54:00+00:00,Melbourne International Airport,KMLB,MLB,Kalitta Charters,KFS,32,K932,KFS32,42.9475534,-87.896646,Milwaukee
+01/01/2022,Bradley International,KBDL,BDL,,New Haven,KHVN,HVN,Avelo Airlines,VXP,9501,XP9501,VXP9501,41.9388735,-72.6860314,Hartford County
+01/01/2022,Boeing Field/King County International Airport,KBFI,BFI,2022-01-01T21:16:00+00:00,Gallatin Field,KBZN,BZN,NetJets Aviation,EJA,306,1I306,EJA306,47.5369043,-122.3038555,Seattle
+01/01/2022,Stockton Metropolitan Airport,KSCK,SCK,2022-01-01T23:33:00+00:00,Cincinnati/Northern Kentucky,KCVG,CVG,Atlas Air,GTI,7707,5Y7707,GTI7707,37.8968929,-121.2514811,Stockton
+01/01/2022,Kahului,PHOG,OGG,2022-01-01T22:36:00+00:00,Los Angeles International,KLAX,LAX,American Airlines,AAL,2062,AA2062,AAL2062,20.894598,-156.4360744,Kahului
+01/01/2022,St. George Municipal,KSGU,SGU,,Salt Lake City International,KSLC,SLC,empty,,,,,37.0308263,-113.5089302,St. George
+01/01/2022,Bert Mooney Airport,KBTM,BTM,,Salt Lake City International,KSLC,SLC,empty,,,,,45.9551935,-112.5021977,Butte
+01/01/2022,Memphis International,KMEM,MEM,,Ted Stevens Anchorage International Airport,PANC,ANC,FedEx,FDX,9815,FX9815,FDX9815,35.0420679,-89.9791729,Memphis
+01/01/2022,Bismarck,KBIS,BIS,2022-01-01T20:01:00+00:00,Boeing Field/King County International Airport,KBFI,BFI,Private Jets,OKC,420,,OKC420,46.77519,-100.7572447,Bismarck
+01/01/2022,Tulsa International,KTUL,TUL,,Nashville International,KBNA,BNA,empty,,,,,36.198778,-95.8838659,Tulsa
+01/01/2022,Ted Stevens Anchorage International Airport,PANC,ANC,2022-01-01T23:54:00+00:00,Los Angeles International,KLAX,LAX,Kalitta Air,CKS,813,K4813,CKS813,61.1758863,-149.9900791,Anchorage
+01/01/2022,Philadelphia International,KPHL,PHL,2022-01-01T22:34:00+00:00,Kansas City International Airport,KMCI,MCI,Malaysia Airlines,MAS,9556,MH9556,MAS9556,39.8729299,-75.2436673,Philadelphia
+01/01/2022,Mineta San Jose International Airport,KSJC,SJC,,Metropolitan Oak International,KOAK,OAK,Pacific Coast Jet,PXT,605,,PXT605,37.3639472,-121.9289375,San Jose
+01/01/2022,Birmingham,KBHM,BHM,2022-01-01T21:29:00+00:00,Huntsville International - Carl T. Jones Field,KHSV,HSV,American Airlines,AAL,5215,AA5215,AAL5215,33.5624269,-86.754126,Birmingham
+01/01/2022,Charlotte Douglas,KCLT,CLT,2022-01-01T23:43:00+00:00,Memphis International,KMEM,MEM,Kalitta Charters,KFS,69,K969,KFS69,35.2144026,-80.9473146,Charlotte
+01/01/2022,Washington Dulles International,KIAD,IAD,2022-01-01T23:39:00+00:00,Newark Liberty International,KEWR,EWR,United Airlines,UAL,2184,UA2184,UAL2184,38.9531162,-77.4565388,Dulles
+01/01/2022,Monterey Peninsula,KMRY,MRY,,Santa Barbara Metropolitan Area,KSBA,SBA,NetJets Aviation,EJA,787,1I787,EJA787,36.5871457,-121.8462322,Monterey
+01/01/2022,Wilkes-Barre/Scranton International Airport,KAVP,AVP,2022-01-01T20:54:00+00:00,John F Kennedy International,KJFK,JFK,Finnair,FIN,4097,AY4097,FIN4097,41.3377564,-75.7237821,Avoca
+01/01/2022,Municipal,KHYS,HYS,2022-01-01T23:46:00+00:00,Salina,KSLN,SLN,Executive Flight Services,XSR,301,,XSR301,38.853909,-99.273786,Hays
+01/01/2022,Redding,KRDD,RDD,2022-01-01T20:40:00+00:00,Metropolitan Oak International,KOAK,OAK,Pacific Coast Jet,PXT,415,,PXT415,40.5058184,-122.2996775,Woodrum Circle
+01/01/2022,Salt Lake City International,KSLC,SLC,2022-01-02T02:45:00+00:00,Logan International,KBOS,BOS,JetBlue Airways,JBU,648,B6648,JBU648,40.7899404,-111.9790706,Salt Lake City
+01/01/2022,Portland International,KPDX,PDX,2022-01-02T09:07:00+00:00,Chicago O'hare International,KORD,ORD,United Airlines,UAL,8156,UA8156,UAL8156,45.5897694,-122.5950942,Northeast Portland
+01/01/2022,Bush Field,KAGS,AGS,,Sarasota/Bradenton International,KSRQ,SRQ,NetJets Aviation,EJA,511,1I511,EJA511,33.3699799,-81.9651701,Industrial
+01/01/2022,Midway,KMDW,MDW,,San Diego International Airport,KSAN,SAN,empty,,,,,41.7867759,-87.7521884,South Side
+01/01/2022,Fresno Air Terminal Airport,KFAT,FAT,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,5253,UA5253,UAL5253,36.7758493,-119.7181083,McLane
+01/01/2022,San Diego International Airport,KSAN,SAN,2022-01-01T15:54:00+00:00,Easterwood Field,KCLL,CLL,Delta Private Jets,DPJ,226,,DPJ226,32.7338006,-117.1933038,Point Loma
+01/01/2022,Ketchikan International Airport,PAKT,KTN,2022-01-01T16:45:00+00:00,Seattle-Tacoma International,KSEA,SEA,Alaska Airlines,ASA,7004,AS7004,ASA7004,55.3554106,-131.7105604,Ketchikan
+01/01/2022,Bangor International Airport,KBGR,BGR,2022-01-01T20:25:00+00:00,Washington Dulles International,KIAD,IAD,NetJets Aviation,EJA,209,1I209,EJA209,44.808176,-68.8165036,Bangor
+01/01/2022,Kona International Airport,PHKO,KOA,2022-01-01T22:03:00+00:00,Seattle-Tacoma International,KSEA,SEA,KLM,KLM,6733,KL6733,KLM6733,19.736916,-156.0429246,Kalaoa
+01/01/2022,Wicomico Regional,KSBY,SBY,,Baltimore/Washington International Thurgood Marshall,KBWI,BWI,Mountain Air Cargo,MTN,7457,C27457,MTN7457,38.339115,-75.5075949,Airport Terminal Road
+01/01/2022,Nantucket Memorial,KACK,ACK,2022-01-01T19:34:00+00:00,Hanscom Field,KBED,BED,empty,,,,,41.2569516,-70.0637506,Nantucket
+01/01/2022,Miami International Airport,KMIA,MIA,2022-01-01T23:03:00+00:00,Tampa International,KTPA,TPA,Finnair,FIN,4074,AY4074,FIN4074,25.7958723,-80.2870509,Miami
+01/01/2022,Spokane International,KGEG,GEG,2022-01-02T01:22:00+00:00,Chicago O'hare International,KORD,ORD,United Airlines,UAL,637,UA637,UAL637,47.6212063,-117.5333722,Spokane
+01/01/2022,Ontario International,KONT,ONT,2022-01-01T23:36:00+00:00,John F Kennedy International,KJFK,JFK,Hawaiian Airlines,HAL,2286,HA2286,HAL2286,34.0559976,-117.5980922,California
+01/01/2022,Lovell Field,KCHA,CHA,,Sarasota/Bradenton International,KSRQ,SRQ,Mountain Aviation,FTH,861,,FTH861,35.0374486,-85.1970112,Chattanooga
+01/01/2022,Palm Beach International Airport,KPBI,PBI,2022-01-01T00:50:00+00:00,Orlando International,KMCO,MCO,STAjets,KFB,69,,KFB69,26.6857475,-80.0928165,West Palm Beach
+01/01/2022,Atlantic City International,KACY,ACY,2022-01-01T01:21:00+00:00,Nashville International,KBNA,BNA,empty,,,,,39.4528283,-74.5714431,New Jersey
+01/01/2022,Midland International,KMAF,MAF,,Dallas/Fort Worth International,KDFW,DFW,Alaska Airlines,ASA,4163,AS4163,ASA4163,31.9417386,-102.2047497,Midland
+01/01/2022,Austin-straubel Field,KGRB,GRB,,Chicago O'hare International,KORD,ORD,Alaska Airlines,ASA,6348,AS6348,ASA6348,44.4923396,-88.1277541,Green Bay
+01/01/2022,Fairbanks International Airport,PAFA,FAI,2022-01-01T21:18:00+00:00,Chicago O'hare International,KORD,ORD,China Southern Airlines,CSN,497,CZ497,CSN497,64.8164163,-147.8635169,Fairbanks
+01/01/2022,Cincinnati/Northern Kentucky,KCVG,CVG,2022-01-01T02:26:00+00:00,Ted Stevens Anchorage International Airport,PANC,ANC,Kalitta Air,CKS,802,K4802,CKS802,39.0508279,-84.6672805,Hebron
+01/01/2022,Hilo International,PHTO,ITO,2022-01-02T00:11:00+00:00,Los Angeles International,KLAX,LAX,United Airlines,UAL,1706,UA1706,UAL1706,19.7188342,-155.0416866,Hilo
+01/01/2022,Lihue,PHLI,LIH,2022-01-01T23:07:00+00:00,Sky Harbor International,KPHX,PHX,American Airlines,AAL,697,AA697,AAL697,21.9788489,-159.3437585,Lihue
+01/01/2022,Dannelly Field,KMGM,MGM,,Lovell Field,KCHA,CHA,American Airlines,AAL,3901,AA3901,AAL3901,32.3047762,-86.3906452,Montgomery
+01/01/2022,San Antonio International,KSAT,SAT,2021-12-31T23:45:00+00:00,Love Field,KDAL,DAL,Quest Diagnostics,LBQ,611,LBQ611,LBQ611,29.5311973,-98.4683484,Uptown
+01/01/2022,Fort Lauderdale–Hollywood International,KFLL,FLL,,Lovell Field,KCHA,CHA,Mountain Aviation,FTH,861,,FTH861,26.0742344,-80.1506022,Fort Lauderdale
+01/01/2022,Lincoln,KLNK,LNK,2022-01-01T18:52:00+00:00,Jackson Hole,KJAC,JAC,Silverhawk Aviation,SLH,814,,SLH814,40.8506586,-96.7581014,Lincoln
+01/01/2022,Montrose Regional Airport,KMTJ,MTJ,2022-01-01T17:39:00+00:00,Westchester County Apt,KHPN,HPN,NetJets Aviation,EJA,533,1I533,EJA533,38.5002349,-107.8992134,Montrose
+01/01/2022,Glacier Park International,KGPI,FCA,,Great Falls International Airport,KGTF,GTF,empty,,,,,48.3076648,-114.2525337,Kalispell
+01/01/2022,Dothan Airport,KDHN,DHN,2022-01-01T18:59:00+00:00,Pensacola International Airport,KPNS,PNS,empty,,,,,31.3148738,-85.448721,Dothan
+01/01/2022,Long Beach Municipal,KLGB,LGB,2022-01-01T21:13:00+00:00,Municipal,KOGD,OGD,empty,,,,,33.8161064,-118.1512558,Long Beach
+01/01/2022,Western Neb. Regional,KBFF,BFF,2022-01-01T16:43:00+00:00,Lincoln,KLNK,LNK,empty,,,,,41.8696365,-103.5926208,Airport Road
+01/01/2022,Southwest Florida International,KRSW,RSW,2022-01-01T20:56:00+00:00,John F Kennedy International,KJFK,JFK,JetBlue Airways,JBU,1052,B61052,JBU1052,26.5337051,-81.7553083,Fort Myers
+01/01/2022,Cherry Capital Airport,KTVC,TVC,,Gerald R. Ford International,KGRR,GRR,empty,,,,,44.7414465,-85.5792528,Traverse City
+01/01/2022,Sacramento International,KSMF,SMF,2022-01-01T23:27:00+00:00,Washington Dulles International,KIAD,IAD,United Airlines,UAL,2214,UA2214,UAL2214,38.6950854,-121.5900648,North Natomas
+01/01/2022,Hopkins International,KCLE,CLE,,Lambert-St. Louis International,KSTL,STL,United Airlines,UAL,4455,UA4455,UAL4455,41.4057985,-81.8538669,Cleveland
+01/01/2022,Westchester County Apt,KHPN,HPN,,Hanscom Field,KBED,BED,empty,,,,,41.0683325,-73.7086641,West Harrison
+01/01/2022,Eagle County,KEGE,EGE,,Evansville Regional Airport,KEVV,EVV,empty,,,,,39.6423103,-106.9169991,Gypsum
+01/01/2022,Burlington International,KBTV,BTV,,Chicago O'hare International,KORD,ORD,Air Canada,ACA,3618,AC3618,ACA3618,44.4706939,-73.1516037,South Burlington
+01/01/2022,La Guardia,KLGA,LGA,2022-01-01T19:46:00+00:00,Will Rogers World Airport,KOKC,OKC,JetBlue Airways,JBU,4760,B64760,JBU4760,40.7769271,-73.8739659,Queens County
+01/01/2022,Roberts Field,KRDM,RDM,2022-01-01T16:39:00+00:00,Metropolitan Oak International,KOAK,OAK,Private owner,,577,,,44.253025,-121.1608351,Redmond
+01/01/2022,Orcas Island,KORS,ESD,2022-01-01T16:11:00+00:00,Friday Harbor,KFHR,FRD,Private owner,,8151,,,48.7048988,-122.9094161,Eastsound
+01/01/2022,William P Hobby,KHOU,HOU,2021-12-31T23:44:00+00:00,Love Field,KDAL,DAL,Quest Diagnostics,LBQ,640,LBQ640,LBQ640,29.6459141,-95.2768951,Southeast Houston
+01/01/2022,Yampa Valley,KHDN,HDN,,Walker Field,KGJT,GJT,Flexjet,LXJ,371,LXJ371,LXJ371,40.4847488,-107.2197265,Hayden
+01/01/2022,Fort Smith Regional Airport,KFSM,FSM,2022-01-01T20:05:00+00:00,Adams Field Airport,KLIT,LIT,empty,,,,,35.3375476,-94.3656121,McKennon Boulevard
+01/01/2022,Joe Foss Field Airport,KFSD,FSD,,Pierre,KPIR,PIR,empty,,,,,43.5828065,-96.7402171,Sioux Falls
+01/01/2022,Aspen,KASE,ASE,,Los Angeles International,KLAX,LAX,empty,,,,,39.2197303,-106.8646011,Aspen
+01/01/2022,Henry E Rohlsen,TISX,STX,,Luis Munoz Marin International,TJSJ,SJU,Air Cargo Carriers,SNC,491,2Q491,SNC491,17.6994979,-64.7974696,Southcentral
+01/01/2022,Will Rogers World Airport,KOKC,OKC,,William P Hobby,KHOU,HOU,empty,,,,,35.393056,-97.600556,Southwest Oklahoma City
+01/01/2022,Jackson Hole,KJAC,JAC,,Indianapolis International,KIND,IND,Flexjet,LXJ,351,LXJ351,LXJ351,43.6033592,-110.7362976,East Airport Road
+01/01/2022,Pittsburgh International,KPIT,PIT,2022-01-01T05:08:00+00:00,Orlando International,KMCO,MCO,Southwest Airlines,SWA,2059,WN2059,SWA2059,40.4919208,-80.2352233,Pittsburgh
+01/01/2022,Lehigh Valley International,KABE,ABE,,Hartsfield-jackson Atlanta International,KATL,ATL,East Coast Jets,ECJ,31,,ECJ31,40.6510611,-75.4438853,Allentown
+01/01/2022,Tampa International,KTPA,TPA,2022-01-01T05:14:00+00:00,Baltimore/Washington International Thurgood Marshall,KBWI,BWI,Southwest Airlines,SWA,3808,WN3808,SWA3808,27.9771524,-82.5311382,Westshore
+01/01/2022,Manchester-boston Regional Airport,KMHT,MHT,2022-01-01T05:13:00+00:00,Baltimore/Washington International Thurgood Marshall,KBWI,BWI,Southwest Airlines,SWA,3431,WN3431,SWA3431,42.929687,-71.4352177,Manchester
+01/01/2022,Bethel Airport,PABE,BET,,Ted Stevens Anchorage International Airport,PANC,ANC,Northern Air Cargo,NAC,730,NC730,NAC730,60.779722,-161.8377779,Alaska
+01/01/2022,T. F. Green Airport,KPVD,PVD,2022-01-01T05:12:00+00:00,Orlando International,KMCO,MCO,Southwest Airlines,SWA,3665,WN3665,SWA3665,41.723536,-71.426957,Warwick
+01/01/2022,International Jetport,KPWM,PWM,2022-01-01T05:09:00+00:00,Baltimore/Washington International Thurgood Marshall,KBWI,BWI,Southwest Airlines,SWA,2102,WN2102,SWA2102,43.6464785,-70.3096974,Portland
+01/01/2022,Yeager,KCRW,CRW,2022-01-01T05:52:00+00:00,Port Columbus International,KCMH,CMH,empty,,,,,38.3714544,-81.5934612,Airport Road
+01/01/2022,Indianapolis International,KIND,IND,2022-01-01T05:03:00+00:00,Orlando International,KMCO,MCO,Southwest Airlines,SWA,3125,WN3125,SWA3125,39.7168593,-86.2955952,Indianapolis
+01/01/2022,Baltimore/Washington International Thurgood Marshall,KBWI,BWI,2022-01-01T06:39:00+00:00,Fort Lauderdale–Hollywood International,KFLL,FLL,Southwest Airlines,SWA,2645,WN2645,SWA2645,39.1774042,-76.6683922,Maryland
+01/01/2022,Kansas City International Airport,KMCI,MCI,,San Francisco International,KSFO,SFO,JetBlue Airways,JBU,2843,B62843,JBU2843,39.3035862,-94.7092596,Kansas City
+01/01/2022,Piedmont Triad International,KGSO,GSO,2021-12-31T23:56:00+00:00,Cincinnati/Northern Kentucky,KCVG,CVG,Amerijet International,AJT,125,M6125,AJT125,36.1043671,-79.9351805,Greensboro
+01/01/2022,Myrtle Beach AFB,KMYR,MYR,2022-01-01T06:08:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,4534,AM4534,AMX4534,33.6822019,-78.9278943,Myrtle Beach
+01/01/2022,Key West International Airport,KEYW,EYW,2022-01-01T06:48:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,4519,AA4519,AAL4519,24.5536707,-81.7549737,Naval Air Station Key West
+01/01/2022,Erie International Airport Tom Ridge Field,KERI,ERI,2022-01-01T06:13:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5068,AA5068,AAL5068,42.0851397,-80.17134,Erie
+01/01/2022,Akron/canton Regional,KCAK,CAK,,Orlando International,KMCO,MCO,Spirit Airlines,NKS,387,NK387,NKS387,40.9153709,-81.4416324,Lauby Road
+01/01/2022,Buffalo Niagara International,KBUF,BUF,2022-01-01T05:19:00+00:00,Orlando International,KMCO,MCO,Southwest Airlines,SWA,2614,WN2614,SWA2614,42.9397059,-78.7295067,Buffalo
+01/01/2022,Melbourne International Airport,KMLB,MLB,2022-01-01T06:05:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3347,AM3347,AMX3347,28.1012659,-80.645078,Melbourne
+01/01/2022,Worcester Regional Airport,KORH,ORH,2022-01-01T06:18:00+00:00,Fort Lauderdale–Hollywood International,KFLL,FLL,Azul,AZU,7403,AD7403,AZU7403,42.2680093,-71.876337,Worcester
+01/01/2022,Roanoke Regional Airport,KROA,ROA,2022-01-01T06:18:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,4075,AM4075,AMX4075,37.320398,-79.9701915,Roanoke
+01/01/2022,Greater Rochester International,KROC,ROC,2022-01-01T06:59:00+00:00,John F Kennedy International,KJFK,JFK,Korean Air,KAL,7224,KE7224,KAL7224,43.1225229,-77.6665722,Rochester
+01/01/2022,Raleigh-durham International Airport,KRDU,RDU,2022-01-01T06:44:00+00:00,Orlando International,KMCO,MCO,Spirit Airlines,NKS,321,NK321,NKS321,35.880079,-78.7879963,Wake County
+01/01/2022,James Cox Dayton International,KDAY,DAY,2022-01-01T05:48:00+00:00,Philadelphia International,KPHL,PHL,American Airlines,AAL,5083,AA5083,AAL5083,39.9025242,-84.2217719,Dayton
+01/01/2022,Greenville Spartanburg International Airport,KGSP,GSP,2022-01-01T06:13:00+00:00,Miami International Airport,KMIA,MIA,American Airlines,AAL,4446,AA4446,AAL4446,34.8959008,-82.2172338,Greer
+01/01/2022,Ronald Reagan Washington National Airport,KDCA,DCA,2022-01-01T06:06:00+00:00,Miami International Airport,KMIA,MIA,American Airlines,AAL,1178,AA1178,AAL1178,38.851242,-77.0402315,Arlington
+01/01/2022,Harrisburg International,KMDT,MDT,2022-01-01T06:18:00+00:00,Dallas/Fort Worth International,KDFW,DFW,American Airlines,AAL,977,AA977,AAL977,40.1942375,-76.7576672,Middletown
+01/01/2022,Gainesville Regional,KGNV,GNV,,Miami International Airport,KMIA,MIA,American Airlines,AAL,3573,AA3573,AAL3573,29.6865485,-82.276659,Northeast 39th Avenue
+01/01/2022,Metropolitan Oak International,KOAK,OAK,2022-01-01T03:56:00+00:00,Ted Stevens Anchorage International Airport,PANC,ANC,FedEx,FDX,169,FX169,FDX169,37.7125689,-122.2197428,Oakland
+01/01/2022,Albert J Ellis,KOAJ,OAJ,2022-01-01T12:48:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5563,AA5563,AAL5563,34.8291316,-77.6068843,Richlands
+01/01/2022,Austin-bergstrom International,KAUS,AUS,2022-01-01T05:11:00+00:00,Philadelphia International,KPHL,PHL,American Airlines,AAL,4679,AA4679,AAL4679,30.1974711,-97.6663529,Austin
+01/01/2022,Long Island Mac Arthur,KISP,ISP,2022-01-01T05:17:00+00:00,Orlando International,KMCO,MCO,Southwest Airlines,SWA,2583,WN2583,SWA2583,40.7956382,-73.0987574,Ronkonkoma
+01/01/2022,Sarasota/Bradenton International,KSRQ,SRQ,2022-01-01T06:07:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3490,AM3490,AMX3490,27.3951191,-82.5538197,Sarasota
+01/01/2022,"Jacksonville,",KJAX,JAX,2022-01-01T06:49:00+00:00,Ronald Reagan Washington National Airport,KDCA,DCA,American Airlines,AAL,2837,AA2837,AAL2837,30.4940713,-81.6879368,Northside
+01/01/2022,Cyril E King Airport,TIST,STT,2022-01-01T07:16:00+00:00,Luis Munoz Marin International,TJSJ,SJU,Air Cargo Carriers,SNC,381,2Q381,SNC381,18.3360608,-64.9722726,St. Thomas
+01/01/2022,Blue Grass,KLEX,LEX,2022-01-01T06:14:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3812,AM3812,AMX3812,38.0377615,-84.6026083,Lexington
+01/01/2022,Bishop International Airport,KFNT,FNT,2022-01-01T06:13:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5642,AA5642,AAL5642,42.9637025,-83.7464346,Flint
+01/01/2022,Tompkins County,KITH,ITH,2022-01-01T07:19:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,6156,AA6156,AAL6156,42.4910848,-76.458504,Ithaca
+01/01/2022,Mc Ghee Tyson,KTYS,TYS,2022-01-01T06:24:00+00:00,Miami International Airport,KMIA,MIA,British Airways,BAW,5153,BA5153,BAW5153,35.810833,-83.993889,Alcoa
+01/01/2022,Albany International,KALB,ALB,2022-01-01T05:33:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,440,AA440,AAL440,42.7479327,-73.8025607,Albany County
+01/01/2022,Bemidji,KBJI,BJI,,Hector Field,KFAR,FAR,empty,,,,,47.5065728,-94.9336535,Bemidji
+01/01/2022,Gerald R. Ford International,KGRR,GRR,2022-01-01T06:05:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3641,AM3641,AMX3641,42.8824265,-85.524281,Grand Rapids
+01/01/2022,Daytona Beach International Airport,KDAB,DAB,2022-01-01T06:08:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3639,AM3639,AMX3639,29.1801685,-81.0597785,Daytona Beach International Airport
+01/01/2022,Syracuse Hancock International Airport,KSYR,SYR,2022-01-01T05:57:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,530,AA530,AAL530,43.1139223,-76.1136982,Syracuse
+01/01/2022,Lambert-St. Louis International,KSTL,STL,2022-01-01T08:02:00+00:00,Newark Liberty International,KEWR,EWR,United Airlines,UAL,4480,UA4480,UAL4480,38.7499379,-90.3748139,St. Louis
+01/01/2022,Barnstable,KHYA,HYA,,Nantucket Memorial,KACK,ACK,Cape Air,KAP,7511,9K7511,KAP7511,41.6673379,-70.2847445,Hyannis
+01/01/2022,Savannah/Hilton Head,KSAV,SAV,2022-01-01T06:05:00+00:00,Midway,KMDW,MDW,Southwest Airlines,SWA,834,WN834,SWA834,32.1294267,-81.2018521,Savannah
+01/01/2022,South Bend Regional,KSBN,SBN,2022-01-01T06:23:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,5130,AM5130,AMX5130,41.7077167,-86.3158433,South Bend
+01/01/2022,Emmet County,KPLN,PLN,2022-01-01T06:44:00+00:00,Detroit Metropolitan Wayne County,KDTW,DTW,Delta Air Lines,DAL,4283,DL4283,DAL4283,45.5714903,-84.7861834,Pellston
+01/01/2022,Capital City,KLAN,LAN,2022-01-01T06:33:00+00:00,Detroit Metropolitan Wayne County,KDTW,DTW,Aeromexico,AMX,5404,AM5404,AMX5404,42.7751086,-84.5902134,Lansing
+01/01/2022,Hector Field,KFAR,FAR,,Grand Forks,KGFK,GFK,empty,,,,,46.9218308,-96.8167025,Fargo
+01/01/2022,Lubbock Preston Smith International,KLBB,LBB,2022-01-01T06:02:00+00:00,Love Field,KDAL,DAL,Southwest Airlines,SWA,3248,WN3248,SWA3248,33.6565685,-101.8222599,Lubbock
+01/01/2022,Pensacola International Airport,KPNS,PNS,2022-01-01T05:43:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5353,AA5353,AAL5353,30.4737363,-87.186669,Northeast Pensacola
+01/01/2022,Delta County Airport,KESC,ESC,2022-01-01T06:39:00+00:00,Detroit Metropolitan Wayne County,KDTW,DTW,Delta Air Lines,DAL,4261,DL4261,DAL4261,45.7181005,-87.0945542,Escanaba
+01/01/2022,Evansville Regional Airport,KEVV,EVV,2022-01-01T06:12:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,5453,AM5453,AMX5453,38.0433641,-87.5271754,Evansville
+01/01/2022,Simmons Nott,KEWN,EWN,2022-01-01T07:03:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5388,AA5388,AAL5388,35.0738759,-77.0420327,New Bern
+01/01/2022,Rochester International Airport,KRST,RST,2022-01-01T05:55:00+00:00,Minneapolis - St. Paul International,KMSP,MSP,Delta Air Lines,DAL,4970,DL4970,DAL4970,43.91008,-92.4975809,Rochester
+01/01/2022,Chippewa County,KCIU,CIU,2022-01-01T07:04:00+00:00,Detroit Metropolitan Wayne County,KDTW,DTW,Delta Air Lines,DAL,4254,DL4254,DAL4254,46.2577577,-84.4744174,Kincheloe
+01/01/2022,Springfield-Branson Rg,KSGF,SGF,2022-01-01T06:13:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,4819,UA4819,UAL4819,37.244632,-93.3902647,Springfield
+01/01/2022,Mid-Continent,KICT,ICT,2022-01-01T06:38:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,4622,AM4622,AMX4622,37.6508529,-97.4286988,Wichita
+01/01/2022,Sharjah International Airport,KSHV,SHV,2022-01-01T06:03:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5392,AA5392,AAL5392,32.4544911,-93.8286552,Hollywood Avenue
+01/01/2022,Metropolitan Airport,KCAE,CAE,2022-01-01T06:22:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3765,AM3765,AMX3765,33.941917,-81.1220015,West Columbia
+01/01/2022,University Park Airport,KUNV,SCE,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,3918,UA3918,UAL3918,40.8513726,-77.8528108,State College
+01/01/2022,Huntsville International - Carl T. Jones Field,KHSV,HSV,2022-01-01T05:47:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,5157,AM5157,AMX5157,34.6403329,-86.7756899,Huntsville
+01/01/2022,Sawyer International,KSAW,MQT,2022-01-01T06:37:00+00:00,Detroit Metropolitan Wayne County,KDTW,DTW,Delta Air Lines,DAL,4330,DL4330,DAL4330,46.3497439,-87.3873273,Gwinn
+01/01/2022,Dane County Regional,KMSN,MSN,2022-01-01T06:04:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3447,AM3447,AMX3447,43.1390659,-89.3364128,Madison
+01/01/2022,Tallahassee Regional Airport,KTLH,TLH,,Miami International Airport,KMIA,MIA,Iberia,IBE,4566,IB4566,IBE4566,30.3953418,-84.3450746,Tallahassee
+01/01/2022,Des Moines International,KDSM,DSM,2022-01-01T08:55:00+00:00,Miami International Airport,KMIA,MIA,Qatar Airways,QTR,2845,QR2845,QTR2845,41.5341333,-93.6587958,Des Moines
+01/01/2022,Quad-City,KMLI,MLI,2022-01-01T06:18:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,4523,AM4523,AMX4523,41.4496341,-90.5082706,Moline
+01/01/2022,Central Illinois Regional Airport at Bloomington-Normal,KBMI,BMI,2022-01-01T06:10:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,4598,AM4598,AMX4598,40.4834497,-88.9142985,Bloomington
+01/01/2022,Duluth International,KDLH,DLH,2022-01-01T06:12:00+00:00,Minneapolis - St. Paul International,KMSP,MSP,Aeromexico,AMX,3309,AM3309,AMX3309,46.8383667,-92.1800442,Duluth
+01/01/2022,Gulfport-Biloxi International,KGPT,GPT,2022-01-01T06:09:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Korean Air,KAL,6898,KE6898,KAL6898,30.413145,-89.0727372,Gulfport
+01/01/2022,Love Field,KDAL,DAL,2022-01-01T06:18:00+00:00,Los Angeles International,KLAX,LAX,Southwest Airlines,SWA,492,WN492,SWA492,32.8481029,-96.8512063,Dallas
+01/01/2022,Jackson-evers,KJAN,JAN,2022-01-01T05:33:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Southwest Airlines,SWA,3159,WN3159,SWA3159,32.3122283,-90.0764217,Jackson
+01/01/2022,"Columbus Metropolitan Airport
+",KCSG,CSG,2022-01-01T06:25:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Korean Air,KAL,7172,KE7172,KAL7172,32.5181294,-84.9363708,Columbus
+01/01/2022,Outagamie County,KATW,ATW,2022-01-01T06:01:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,4710,AA4710,AAL4710,44.2605,-88.5111,Appleton
+01/01/2022,Adams Field Airport,KLIT,LIT,2022-01-01T06:17:00+00:00,Lambert-St. Louis International,KSTL,STL,Southwest Airlines,SWA,3290,WN3290,SWA3290,34.7307049,-92.2216531,Little Rock
+01/01/2022,Isla Grande,TJIG,SIG,,Culebra,TJCP,CPX,Air Flamenco,WAF,1201,F41201,WAF1201,18.4557662,-66.0979534,San Juan
+01/01/2022,Albemarle,KCHO,CHO,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,3775,UA3775,UAL3775,38.1394877,-78.4516149,Bowen Loop
+01/01/2022,Tri-cities Regional,KTRI,TRI,2022-01-01T07:28:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,6036,AA6036,AAL6036,36.4816731,-82.4077169,Tennessee 75
+01/01/2022,Elmira Corning Regional,KELM,ELM,,Detroit Metropolitan Wayne County,KDTW,DTW,Korean Air,KAL,3412,KE3412,KAL3412,42.1607628,-76.8926215,Sing Sing Road
+01/01/2022,Minot International Airport,KMOT,MOT,2022-01-01T07:04:00+00:00,Minneapolis - St. Paul International,KMSP,MSP,Aeromexico,AMX,3893,AM3893,AMX3893,48.2556712,-101.2882265,Minot
+01/01/2022,MBS International,KMBS,MBS,2022-01-01T00:39:00+00:00,Miami International Airport,KMIA,MIA,Swift Air,SWQ,9844,WQ9844,SWQ9844,43.5386272,-84.0821024,Freeland
+01/01/2022,Brainerd Lakes Regional,KBRD,BRD,2022-01-01T06:22:00+00:00,Minneapolis - St. Paul International,KMSP,MSP,Delta Air Lines,DAL,4287,DL4287,DAL4287,46.3930459,-94.1412635,Airport Road
+01/01/2022,Eppley Airfield,KOMA,OMA,,Lambert-St. Louis International,KSTL,STL,Southwest Airlines,SWA,3112,WN3112,SWA3112,41.3014753,-95.8945207,East Omaha
+01/01/2022,Oneida County,KRHI,RHI,2022-01-01T05:56:00+00:00,Minneapolis - St. Paul International,KMSP,MSP,Delta Air Lines,DAL,4277,DL4277,DAL4277,45.6262702,-89.4618453,Rhinelander
+01/01/2022,Asheville Regional Airport,KAVL,AVL,2022-01-01T07:12:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5489,AA5489,AAL5489,35.4348962,-82.5378541,Terminal Drive
+01/01/2022,Yellowstone Regional,KCOD,COD,,San Francisco International,KSFO,SFO,empty,,,,,44.5170669,-109.0227432,Cody
+01/01/2022,Capital,KSPI,SPI,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,3874,UA3874,UAL3874,39.8439165,-89.6783951,Springfield
+01/01/2022,Eastern Iowa Airport,KCID,CID,2022-01-01T06:21:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3416,AM3416,AMX3416,41.8863861,-91.7069754,Cedar Rapids
+01/01/2022,Houghton County,KCMX,CMX,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,5061,UA5061,UAL5061,47.1687043,-88.4941169,Airpark Boulevard
+01/01/2022,Preston-glenn Field,KLYH,LYH,2022-01-01T09:09:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,6126,AA6126,AAL6126,37.3254655,-79.201476,Terminal Drive
+01/01/2022,Benedum,KCKB,CKB,,Detroit Metropolitan Wayne County,KDTW,DTW,Delta Private Jets,DPJ,477,,DPJ477,39.2967239,-80.231201,Bridgeport
+01/01/2022,Lafayette Regional,KLFT,LFT,2022-01-01T07:11:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3951,AM3951,AMX3951,30.204875,-91.9888222,Lafayette
+01/01/2022,Northwest Arkansas Regional,KXNA,XNA,2022-01-01T06:37:00+00:00,Miami International Airport,KMIA,MIA,American Airlines,AAL,3600,AA3600,AAL3600,36.2786587,-94.304294,Bentonville
+01/01/2022,Chisholm,KHIB,HIB,,Minneapolis - St. Paul International,KMSP,MSP,Delta Air Lines,DAL,4259,DL4259,DAL4259,47.3921273,-92.8422038,Hibbing
+01/01/2022,Albuquerque International,KABQ,ABQ,2022-01-01T05:12:00+00:00,Love Field,KDAL,DAL,Southwest Airlines,SWA,826,WN826,SWA826,35.0433333,-106.6129085,Albuquerque
+01/01/2022,Martha's Vineyard,KMVY,MVY,,Logan International,KBOS,BOS,JetBlue Airways,JBU,5977,B65977,JBU5977,41.3892707,-70.6122055,West Tisbury
+01/01/2022,Williamson County,KMWA,MWA,,Lambert-St. Louis International,KSTL,STL,American Airlines,AAL,8324,AA8324,AAL8324,37.7471237,-89.011177,Terminal Drive
+01/01/2022,Quincy M Baldwin Field,KUIN,UIN,,Chicago O'hare International,KORD,ORD,American Airlines,AAL,8350,AA8350,AAL8350,39.9368871,-91.1941325,Quincy
+01/01/2022,Tucson International Airport,KTUS,TUS,2022-01-01T06:03:00+00:00,Mc Carran International,KLAS,LAS,Southwest Airlines,SWA,2534,WN2534,SWA2534,32.1145102,-110.9392269,Tucson
+01/01/2022,Tri-state/Milton,KHTS,HTS,2022-01-01T09:49:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,6065,AA6065,AAL6065,38.3693378,-82.5557309,Huntington
+01/01/2022,Missoula International,KMSO,MSO,2022-01-01T06:32:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,2255,UA2255,UAL2255,46.918785,-114.0837478,Missoula
+01/01/2022,Orlando Sanford International,KSFB,SFB,2022-01-01T07:28:00+00:00,Fort Lauderdale–Hollywood International,KFLL,FLL,empty,,,,,28.7759403,-81.2342879,Sanford
+01/01/2022,Watertown,KART,ART,2022-01-01T06:09:00+00:00,Philadelphia International,KPHL,PHL,American Airlines,AAL,6090,AA6090,AAL6090,43.9941139,-76.0233306,Dexter
+01/01/2022,NW Florida Beaches Int,KECP,ECP,2022-01-01T06:54:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,4798,AM4798,AMX4798,30.3548543,-85.7995134,Panama City
+01/01/2022,Dougherty County,KABY,ABY,2022-01-01T07:23:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Korean Air,KAL,3535,KE3535,KAL3535,31.5322734,-84.1882636,Newton Road
+01/01/2022,Plattsburgh International,KPBG,PBG,2022-01-01T07:53:00+00:00,Washington Dulles International,KIAD,IAD,United Airlines,UAL,5031,UA5031,UAL5031,44.6520597,-73.4679203,Plattsburgh
+01/01/2022,Key Field,KMEI,MEI,2022-01-01T06:21:00+00:00,George Bush Intercontinental,KIAH,IAH,United Airlines,UAL,5201,UA5201,UAL5201,32.333547,-88.7451526,Mississippi
+01/01/2022,Boise Air Terminal/Gowen Field,KBOI,BOI,2022-01-01T06:19:00+00:00,Seattle-Tacoma International,KSEA,SEA,Alaska Airlines,ASA,2246,AS2246,ASA2246,43.5658231,-116.222316,West Airport Way
+01/01/2022,South Padre Is. International,KBRO,BRO,2022-01-01T07:01:00+00:00,George Bush Intercontinental,KIAH,IAH,Air Canada,ACA,4794,AC4794,ACA4794,25.9063266,-97.4269855,Brownsville
+01/01/2022,Ogdensburg,KOGS,OGS,,Washington Dulles International,KIAD,IAD,United Airlines,UAL,5101,UA5101,UAL5101,44.6820927,-75.4768298,New York
+01/01/2022,Salina,KSLN,SLN,,Yampa Valley,KHDN,HDN,empty,,,,,38.7787031,-97.6395955,Salina
+01/01/2022,Central Wisconsin,KCWA,CWA,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,3829,UA3829,UAL3829,44.784201,-89.67268,Mosinee
+01/01/2022,Grand Island,KGRI,GRI,2022-01-01T07:47:00+00:00,Dallas/Fort Worth International,KDFW,DFW,American Airlines,AAL,3907,AA3907,AAL3907,40.9693717,-98.3185653,Grand Island
+01/01/2022,Mathis Field,KSJT,SJT,2022-01-01T10:30:00+00:00,Dallas/Fort Worth International,KDFW,DFW,American Airlines,AAL,3069,AA3069,AAL3069,31.3572857,-100.5028459,San Angelo
+01/01/2022,Molokai,PHMK,MKK,,Honolulu International,PHNL,HNL,Southern Airways Express,FDY,951,9X951,FDY951,21.1535674,-157.0963276,Hawaii
+01/01/2022,Valdosta Regional Airport,KVLD,VLD,2022-01-01T07:16:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Korean Air,KAL,7054,KE7054,KAL7054,30.7891551,-83.2786564,Valdosta
+01/01/2022,Corpus Christi International Airport,KCRP,CRP,2022-01-01T06:40:00+00:00,William P Hobby,KHOU,HOU,Southwest Airlines,SWA,10,WN10,SWA10,27.7724235,-97.5021829,Corpus Christi
+01/01/2022,Eglin AFB,KVPS,VPS,2022-01-01T06:34:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,3405,AM3405,AMX3405,30.4954551,-86.5498464,Eglin Air Force Base
+01/01/2022,Prescott,KPRC,PRC,,Denver International,KDEN,DEN,United Airlines,UAL,5127,UA5127,UAL5127,34.6501415,-112.4282583,Prescott
+01/01/2022,Walla Walla,KALW,ALW,,Seattle-Tacoma International,KSEA,SEA,Qatar Airways,QTR,2001,QR2001,QTR2001,42.2162491,-83.3553642,West G Rogell Drive
+01/01/2022,Rick Husband Amarillo International,KAMA,AMA,2022-01-01T06:46:00+00:00,Love Field,KDAL,DAL,Southwest Airlines,SWA,1862,WN1862,SWA1862,35.2181993,-101.7063897,Amarillo
+01/01/2022,Valley International,KHRL,HRL,2022-01-01T06:40:00+00:00,William P Hobby,KHOU,HOU,Southwest Airlines,SWA,3101,WN3101,SWA3101,26.2234764,-97.6623631,Harlingen
+01/01/2022,Trenton Mercer Airport,KTTN,TTN,2022-01-01T07:27:00+00:00,Orlando International,KMCO,MCO,Volaris,VOI,2368,Y42368,VOI2368,40.277001,-74.8180748,Ewing Township
+01/01/2022,Ryan,KBTR,BTR,,Hartsfield-jackson Atlanta International,KATL,ATL,Aeromexico,AMX,4920,AM4920,AMX4920,30.5323599,-91.151461,Baton Rouge
+01/01/2022,Kalamazoo/Battle Creek International,KAZO,AZO,2022-01-01T06:53:00+00:00,Detroit Metropolitan Wayne County,KDTW,DTW,Korean Air,KAL,3380,KE3380,KAL3380,42.2314382,-85.5512496,Portage
+01/01/2022,Greater Peoria,KPIA,PIA,2022-01-01T07:00:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5193,AA5193,AAL5193,40.6655468,-89.6955242,Peoria
+01/01/2022,Westmoreland County,KLBE,LBE,2022-01-01T07:02:00+00:00,Orlando International,KMCO,MCO,Spirit Airlines,NKS,863,NK863,NKS863,40.2723716,-79.4055182,Aviation Lane
+01/01/2022,Culebra,TJCP,CPX,2022-01-01T08:20:00+00:00,Luis Munoz Marin International,TJSJ,SJU,United Airlines,UAL,6533,UA6533,UAL6533,18.3124647,-65.3038902,Culebra
+01/01/2022,Mobile Regional Airport,KMOB,MOB,,Dallas/Fort Worth International,KDFW,DFW,Gulf Air,GFA,6800,GF6800,GFA6800,30.6924859,-88.2455489,Bates
+01/01/2022,El Paso International Airport,KELP,ELP,2022-01-01T05:53:00+00:00,George Bush Intercontinental,KIAH,IAH,Air Canada,ACA,4553,AC4553,ACA4553,31.8053354,-106.3824345,East El Paso
+01/01/2022,Alexandria International,KAEX,AEX,2022-01-01T07:03:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,5631,AA5631,AAL5631,31.3256775,-92.5489772,Alexandria
+01/01/2022,Eugene,KEUG,EUG,,Denver International,KDEN,DEN,United Airlines,UAL,663,UA663,UAL663,44.1217811,-123.2159003,Eugene
+01/01/2022,Florence,KFLO,FLO,2022-01-01T07:28:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,6216,AA6216,AAL6216,34.1931906,-79.7281922,Florence
+01/01/2022,Gallatin Field,KBZN,BZN,2022-01-01T07:26:00+00:00,Dallas/Fort Worth International,KDFW,DFW,Alaska Airlines,ASA,6296,AS6296,ASA6296,45.7784043,-111.1612273,Belgrade
+01/01/2022,San Luis County Regional Airport,KSBP,SBP,2022-01-01T05:31:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,5676,UA5676,UAL5676,35.2375629,-120.642026,San Luis Obispo
+01/01/2022,Pangborn Field,KEAT,EAT,2022-01-01T06:10:00+00:00,Seattle-Tacoma International,KSEA,SEA,Qatar Airways,QTR,2014,QR2014,QTR2014,47.4045104,-120.2102355,East Wenatchee
+01/01/2022,Helena,KHLN,HLN,,Denver International,KDEN,DEN,United Airlines,UAL,4993,UA4993,UAL4993,46.6095791,-111.9902266,Helena
+01/01/2022,Barkley Regional,KPAH,PAH,2022-01-01T07:44:00+00:00,Chicago O'hare International,KORD,ORD,United Airlines,UAL,5121,UA5121,UAL5121,37.0612439,-88.7675112,West Paducah
+01/01/2022,Arcata,KACV,ACV,2022-01-01T05:45:00+00:00,Sky Harbor International,KPHX,PHX,American Airlines,AAL,3019,AA3019,AAL3019,40.9709197,-124.1065825,McKinleyville
+01/01/2022,Santa Fe,KSAF,SAF,2022-01-01T08:41:00+00:00,Dallas/Fort Worth International,KDFW,DFW,American Airlines,AAL,2986,AA2986,AAL2986,35.6182563,-106.0845315,Santa Fe
+01/01/2022,Mudhole Smith,PACV,CDV,,Ted Stevens Anchorage International Airport,PANC,ANC,ACE Air Cargo,AER,42,KO42,AER42,60.4943809,-145.4721527,Alaska
+01/01/2022,Yakutat,PAYA,YAK,,Ted Stevens Anchorage International Airport,PANC,ANC,ACE Air Cargo,AER,41,KO41,AER41,59.5078849,-139.6683044,Yakutat
+01/01/2022,Santa Barbara Metropolitan Area,KSBA,SBA,2022-01-01T05:38:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,376,UA376,UAL376,34.4271935,-119.8398835,Santa Barbara
+01/01/2022,Bellingham,KBLI,BLI,2022-01-01T05:27:00+00:00,Seattle-Tacoma International,KSEA,SEA,American Airlines,AAL,7542,AA7542,AAL7542,48.7955792,-122.5330643,Bellingham
+01/01/2022,Industrial,KROW,ROW,2022-01-01T06:38:00+00:00,Dallas/Fort Worth International,KDFW,DFW,American Airlines,AAL,3271,AA3271,AAL3271,33.3024659,-104.525764,Roswell
+01/01/2022,White River,KLEB,LEB,,Logan International,KBOS,BOS,JetBlue Airways,JBU,5167,B65167,JBU5167,43.6249449,-72.3086409,West Lebanon
+01/01/2022,Knox County Regional,KRKD,RKD,,Logan International,KBOS,BOS,JetBlue Airways,JBU,5160,B65160,JBU5160,44.061802,-69.094305,Owls Head
+01/01/2022,Provincetown,KPVC,PVC,,Logan International,KBOS,BOS,JetBlue Airways,JBU,5175,B65175,JBU5175,42.0760536,-70.2169647,Provincetown
+01/01/2022,Rogue Valley International - Medford Airport,KMFR,MFR,2022-01-01T05:47:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,1144,UA1144,UAL1144,42.3684768,-122.8740386,Medford
+01/01/2022,Dickinson,KDIK,DIK,,Denver International,KDEN,DEN,United Airlines,UAL,4917,UA4917,UAL4917,46.8016664,-102.7928843,Dickinson
+01/01/2022,Joplin Regional,KJLN,JLN,2022-01-01T08:17:00+00:00,Chicago O'hare International,KORD,ORD,United Airlines,UAL,5074,UA5074,UAL5074,37.1575987,-94.50199,Joplin
+01/01/2022,Jamestown,KJMS,JMS,,Denver International,KDEN,DEN,United Airlines,UAL,5045,UA5045,UAL5045,46.9263458,-98.6790695,Jamestown
+01/01/2022,Meadows Field,KBFL,BFL,2022-01-01T05:35:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,5839,UA5839,UAL5839,35.4356948,-119.0575014,Bakersfield
+01/01/2022,Nez Perce County Rgnl,KLWS,LWS,2022-01-01T06:48:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,4766,UA4766,UAL4766,46.3772659,-117.0111541,Lewiston
+01/01/2022,Pullman-Moscow Regional Airport,KPUW,PUW,,Seattle-Tacoma International,KSEA,SEA,American Airlines,AAL,7507,AA7507,AAL7507,46.7441801,-117.1141262,Washington
+01/01/2022,Williams Gateway,KIWA,AZA,,Capital,KSPI,SPI,Allegiant Air,AAY,1392,G41392,AAY1392,33.3089787,-111.6559352,Mesa
+01/01/2022,Vero Beach Municipal,KVRB,VRB,,Buffalo Niagara International,KBUF,BUF,NetJets Aviation,EJA,601,1I601,EJA601,27.653892,-80.4172657,Vero Beach
+01/01/2022,Easterwood Field,KCLL,CLL,,George Bush Intercontinental,KIAH,IAH,Air New Zealand,ANZ,9753,NZ9753,ANZ9753,30.5936801,-96.3666053,College Station
+01/01/2022,Yakima Air Terminal,KYKM,YKM,2022-01-01T05:30:00+00:00,Seattle-Tacoma International,KSEA,SEA,American Airlines,AAL,7516,AA7516,AAL7516,46.5690859,-120.5392971,Yakima
+01/01/2022,Golden Triangle Reg.,KGTR,GTR,,Hartsfield-jackson Atlanta International,KATL,ATL,Delta Air Lines,DAL,5316,DL5316,DAL5316,33.4515977,-88.5875147,Columbus
+01/01/2022,Glynco Jetport,KBQK,BQK,2022-01-01T08:03:00+00:00,Hartsfield-jackson Atlanta International,KATL,ATL,Delta Air Lines,DAL,4688,DL4688,DAL4688,31.2548331,-81.4669111,Brunswick
+01/01/2022,Tri-cities,KPSC,PSC,,Denver International,KDEN,DEN,United Airlines,UAL,5788,UA5788,UAL5788,46.2631697,-119.1175903,Pasco
+01/01/2022,Palm Springs Metropolitan Area,KPSP,PSP,2022-01-01T05:54:00+00:00,Denver International,KDEN,DEN,Air Canada,ACA,4002,AC4002,ACA4002,33.8303194,-116.5070468,Palm Springs
+01/01/2022,Laredo International Airport,KLRD,LRD,,George Bush Intercontinental,KIAH,IAH,Copa Airlines,CMP,1554,CM1554,CMP1554,27.5430371,-99.4621496,Laredo
+01/01/2022,Mc Allen Miller International,KMFE,MFE,2022-01-01T07:16:00+00:00,George Bush Intercontinental,KIAH,IAH,Air Canada,ACA,5747,AC5747,ACA5747,26.1770587,-98.2391389,McAllen
+01/01/2022,Sioux Gateway,KSUX,SUX,2022-01-01T08:03:00+00:00,Chicago O'hare International,KORD,ORD,United Airlines,UAL,5200,UA5200,UAL5200,42.4008903,-96.3787307,Sioux City
+01/01/2022,Campbell County,KGCC,GCC,,Denver International,KDEN,DEN,United Airlines,UAL,5203,UA5203,UAL5203,44.3486031,-105.5377317,Gillette
+01/01/2022,Pulliam Field,KFLG,FLG,,Aspen,KASE,ASE,empty,,,,,35.1402957,-111.6710476,Flagstaff
+01/01/2022,Tyler Pounds Regional Airport,KTYR,TYR,2022-01-01T10:47:00+00:00,Dallas/Fort Worth International,KDFW,DFW,Alaska Airlines,ASA,4438,AS4438,ASA4438,32.3511258,-95.4096293,Tyler
+01/01/2022,Elko Regional,KEKO,EKO,,Salt Lake City International,KSLC,SLC,Delta Air Lines,DAL,4332,DL4332,DAL4332,40.8274959,-115.7864736,Elko
+01/01/2022,Gunnison,KGUC,GUC,,Eagle County,KEGE,EGE,Flexjet,LXJ,596,LXJ596,LXJ596,38.5371548,-106.935603,Colorado
+01/01/2022,Sweetwater County,KRKS,RKS,2022-01-01T11:19:00+00:00,Eagle County,KEGE,EGE,Flexjet,LXJ,588,LXJ588,LXJ588,41.5988254,-109.0718882,Rock Springs
+01/01/2022,New Haven,KHVN,HVN,,Palm Beach International Airport,KPBI,PBI,empty,,,,,41.2634247,-72.8863876,New Haven
+01/01/2022,Sitka,PASI,SIT,,Boundary Bay,PAJN,JNU,Alaska Airlines,ASA,73,AS73,ASA73,57.052645,-135.3655184,Sitka
+01/01/2022,Shenandoah Valley,KSHD,SHD,2022-01-01T08:43:00+00:00,Washington Dulles International,KIAD,IAD,United Airlines,UAL,5125,UA5125,UAL5125,38.2638356,-78.897264,Weyers Cave
+01/01/2022,Robert Gray AAF,KGRK,GRK,2022-01-01T07:28:00+00:00,George Bush Intercontinental,KIAH,IAH,Copa Airlines,CMP,1866,CM1866,CMP1866,31.0613802,-97.8213287,Killeen
+01/01/2022,Lea County,KHOB,HOB,2022-01-01T06:15:00+00:00,George Bush Intercontinental,KIAH,IAH,United Airlines,UAL,4752,UA4752,UAL4752,32.6923483,-103.214364,Hobbs
+01/01/2022,Charlotte County,KPGD,PGD,2022-01-01T15:02:00+00:00,Key West International Airport,KEYW,EYW,empty,,,,,26.9197334,-81.9959802,Charlotte County
+01/01/2022,Fanning Field,KIDA,IDA,,Denver International,KDEN,DEN,United Airlines,UAL,4687,UA4687,UAL4687,43.5152294,-112.0678843,Idaho Falls
+01/01/2022,General Brees Field,KLAR,LAR,,Denver International,KDEN,DEN,United Airlines,UAL,5089,UA5089,UAL5089,41.3191269,-105.6708763,Laramie
+01/01/2022,Hanscom Field,KBED,BED,2022-01-01T10:14:00+00:00,Martha's Vineyard,KMVY,MVY,Tradewind Aviation,GPD,809,TJ809,GPD809,42.4629631,-71.287178,Bedford
+01/01/2022,Richland Municipalcipal,KSDY,SDY,,Billings,KBIL,BIL,Cape Air,KAP,1778,9K1778,KAP1778,47.7108383,-104.1845855,Sidney
+01/01/2022,La Plata,KDRO,DRO,2022-01-01T08:10:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,5918,UA5918,UAL5918,37.1596721,-107.7507154,Durango
+01/01/2022,Daviess County,KOWB,OWB,2022-01-01T07:37:00+00:00,Nashville International,KBNA,BNA,Cape Air,KAP,45,9K45,KAP45,37.7463697,-87.1633877,Owensboro
+01/01/2022,Chippewa Valley Regional Airport,KEAU,EAU,2022-01-01T07:45:00+00:00,Chicago O'hare International,KORD,ORD,United Airlines,UAL,5075,UA5075,UAL5075,44.8622211,-91.4822219,Eau Claire
+01/01/2022,Boundary Bay,PAJN,JNU,,Seattle-Tacoma International,KSEA,SEA,Korean Air,KAL,6052,KE6052,KAL6052,58.3579806,-134.5831791,Juneau
+01/01/2022,Memorial,KPUB,PUB,2022-01-01T08:31:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,5109,UA5109,UAL5109,38.2837066,-104.4953765,Pueblo
+01/01/2022,Natrona County International Airport,KCPR,CPR,2022-01-01T07:48:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,5843,UA5843,UAL5843,42.8972751,-106.4648786,Casper
+01/01/2022,Sonoma County,KSTS,STS,2022-01-01T07:01:00+00:00,Los Angeles International,KLAX,LAX,American Airlines,AAL,7404,AA7404,AAL7404,38.5103492,-122.8055953,Santa Rosa
+01/01/2022,Cedar City,KCDC,CDC,2022-01-01T07:43:00+00:00,Salt Lake City International,KSLC,SLC,Delta Air Lines,DAL,4288,DL4288,DAL4288,37.6955973,-113.0987798,Cedar City
+01/01/2022,St. Petersburg-Clearwater International,KPIE,PIE,,Key West International Airport,KEYW,EYW,Allegiant Air,AAY,1922,G41922,AAY1922,27.9122109,-82.6891001,Terminal Boulevard
+01/01/2022,Sun Valley,KSUN,SUN,,Salt Lake City International,KSLC,SLC,Aeromexico,AMX,4259,AM4259,AMX4259,43.5065471,-114.3012455,Hailey
+01/01/2022,Mercedita,TJPS,PSE,,John F Kennedy International,KJFK,JFK,JetBlue Airways,JBU,746,B6746,JBU746,18.0105611,-66.5632107,Vayas
+01/01/2022,Kodiak Airport,PADQ,ADQ,,Ted Stevens Anchorage International Airport,PANC,ANC,ACE Air Cargo,AER,145,KO145,AER145,57.7543254,-152.5169579,Kodiak
+01/01/2022,Pierre,KPIR,PIR,2022-01-01T09:48:00+00:00,Denver International,KDEN,DEN,Denver Air Connection,LYM,4710,KG4710,LYM4710,44.383171,-100.2968215,Airport Road
+01/01/2022,Friday Harbor,KFHR,FRD,,Orcas Island,KORS,ESD,Kenmore Air,KEN,8110,M58110,KEN8110,48.5248261,-123.0261848,Friday Harbor
+01/01/2022,Ford,KIMT,IMT,2022-01-01T09:40:00+00:00,Minneapolis - St. Paul International,KMSP,MSP,Delta Air Lines,DAL,4268,DL4268,DAL4268,45.8149821,-88.1185699,Kingsford
+01/01/2022,Columbia Regional,KCOU,COU,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,3721,UA3721,UAL3721,38.8173141,-92.2215499,Columbia
+01/01/2022,Provo,KPVU,PVU,2022-01-01T08:24:00+00:00,St. George Municipal,KSGU,SGU,empty,,,,,40.2180508,-111.7222357,Provo
+01/01/2022,Newport News/williamsb,KPHF,PHF,2022-01-01T08:45:00+00:00,Charlotte Douglas,KCLT,CLT,American Airlines,AAL,6236,AA6236,AAL6236,37.1302795,-76.5025939,Newport News
+01/01/2022,Riverton Regional,KRIW,RIW,2022-01-01T08:19:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,5130,UA5130,UAL5130,43.0613253,-108.4584185,Riverton
+01/01/2022,,KXWA,XWA,,Denver International,KDEN,DEN,United Airlines,UAL,5598,UA5598,UAL5598,48.2578206,-103.7417095,Williston
+01/01/2022,Sheridan,KSHR,SHR,,Denver International,KDEN,DEN,United Airlines,UAL,5185,UA5185,UAL5185,44.7738431,-106.9703601,Sheridan
+01/01/2022,Toledo Express,KTOL,TOL,2022-01-01T11:46:00+00:00,Chicago O'hare International,KORD,ORD,Iberia,IBE,4479,IB4479,IBE4479,41.5857725,-83.8092594,Swanton
+01/01/2022,Lycoming County,KIPT,IPT,,Logan International,KBOS,BOS,empty,,,,,41.245182,-76.91881,Montoursville
+01/01/2022,Buchanan Field,KCCR,CCR,,Mineta San Jose International Airport,KSJC,SJC,Executive Jet Management,EJM,37,EJM37,EJM37,37.9884288,-122.0577838,Concord
+01/01/2022,Joslin Field - Magic Valley Regional,KTWF,TWF,,San Luis County Regional Airport,KSBP,SBP,NetJets Aviation,EJA,155,1I155,EJA155,42.4833496,-114.4847165,Twin Falls
+01/01/2022,King Salmon,PAKN,AKN,,Ted Stevens Anchorage International Airport,PANC,ANC,ACE Air Cargo,AER,31,KO31,AER31,58.6826662,-156.6682051,King Salmon
+01/01/2022,Hilton Head,KHXD,HHH,2022-01-01T10:18:00+00:00,Westchester County Apt,KHPN,HPN,NetJets Aviation,EJA,688,1I688,EJA688,32.2248476,-80.6971648,Hilton Head Island
+01/01/2022,Lewis B Wilson,KMCN,MCN,2022-01-01T09:34:00+00:00,Baltimore/Washington International Thurgood Marshall,KBWI,BWI,Contour Aviation,VTE,3107,LF3107,VTE3107,39.3035862,-94.7092596,Kansas City
+01/01/2022,Muskegon,KMKG,MKG,,Chicago O'hare International,KORD,ORD,United Airlines,UAL,5056,UA5056,UAL5056,43.1645521,-86.2380001,Muskegon
+01/01/2022,Sheppard AFB,KSPS,SPS,2022-01-01T10:31:00+00:00,Dallas/Fort Worth International,KDFW,DFW,Alaska Airlines,ASA,4436,AS4436,ASA4436,33.9642825,-98.4918225,Wichita Falls
+01/01/2022,Rickenbacker,KLCK,LCK,,Chicago O'hare International,KORD,ORD,Cathay Pacific,CPA,92,CX92,CPA92,39.8173811,-82.9358462,Columbus
+01/01/2022,University Of Illinois Willard,KCMI,CMI,2022-01-01T07:23:00+00:00,Dallas/Fort Worth International,KDFW,DFW,American Airlines,AAL,4073,AA4073,AAL4073,40.0364962,-88.2639879,Savoy
+01/01/2022,Pease International,KPSM,PSM,2022-01-01T13:44:00+00:00,Minneapolis - St. Paul International,KMSP,MSP,PlaneSense,CNS,525,,CNS525,43.0790626,-70.8200208,Pease
+01/01/2022,Wiley Post/W.Rogers M,PABR,BRW,2022-01-01T16:34:00+00:00,Ted Stevens Anchorage International Airport,PANC,ANC,Alaska Airlines,ASA,50,AS50,ASA50,71.2876213,-156.7750278,Akavak St
+01/01/2022,Mammoth Lakes,KMMH,MMH,,Bob Hope,KBUR,BUR,Advanced Air,WSN,374,AN374,WSN374,37.6272621,-118.8418045,Mammoth Lakes
+01/01/2022,Lanai City,PHNY,LNY,,Honolulu International,PHNL,HNL,Southern Airways Express,FDY,681,9X681,FDY681,20.7905864,-156.9498596,Maui County
+01/01/2022,Kotzebue,PAOT,OTZ,,Ted Stevens Anchorage International Airport,PANC,ANC,Northern Air Cargo,NAC,723,NC723,NAC723,66.8911052,-162.6024355,Kotzebue
+01/01/2022,Waterloo,KALO,ALO,,Chicago O'hare International,KORD,ORD,American Airlines,AAL,4437,AA4437,AAL4437,42.5503921,-92.3966445,Waterloo
+01/01/2022,Nome,PAOM,OME,,Ted Stevens Anchorage International Airport,PANC,ANC,Northern Air Cargo,NAC,720,NC720,NAC720,64.5099347,-165.4435152,Nome
+01/01/2022,Petersburg James A Johnson,PAPG,PSG,,Boundary Bay,PAJN,JNU,ACE Air Cargo,AER,47,KO47,AER47,56.8016796,-132.9482065,Petersburg
+01/01/2022,Vernal,KVEL,VEL,2022-01-01T11:43:00+00:00,Denver International,KDEN,DEN,United Airlines,UAL,5123,UA5123,UAL5123,40.4425331,-109.513925,Vernal

@@ -1,0 +1,67 @@
+{
+  "results": [
+    {
+      "co2e": 2377.776764942734,
+      "co2e_unit": "kg",
+      "co2e_calculation_method": "ar5",
+      "co2e_calculation_origin": "source",
+      "emission_factor": {
+        "id": "passenger_flight-route_type_na-aircraft_type_na-distance_gt_300mi_lt_2300mi-class_na-rf_na",
+        "source": "GHG Protocol",
+        "year": "2021",
+        "region": "US",
+        "category": "Air Travel",
+        "lca_activity": "fuel_combustion"
+      },
+      "constituent_gases": {
+        "co2e_total": 2377.776764942734,
+        "co2e_other": null,
+        "co2": 2357.73085182534,
+        "ch4": 0.010401753758052969,
+        "n2o": 0.07454590193271295
+      }
+    },
+    {
+      "co2e": 2377.776764942734,
+      "co2e_unit": "kg",
+      "co2e_calculation_method": "ar5",
+      "co2e_calculation_origin": "source",
+      "emission_factor": {
+        "id": "passenger_flight-route_type_na-aircraft_type_na-distance_gt_300mi_lt_2300mi-class_na-rf_na",
+        "source": "GHG Protocol",
+        "year": "2021",
+        "region": "US",
+        "category": "Air Travel",
+        "lca_activity": "fuel_combustion"
+      },
+      "constituent_gases": {
+        "co2e_total": 2377.776764942734,
+        "co2e_other": null,
+        "co2": 2357.73085182534,
+        "ch4": 0.010401753758052969,
+        "n2o": 0.07454590193271295
+      }
+    },
+    {
+      "co2e": 2377.776764942734,
+      "co2e_unit": "kg",
+      "co2e_calculation_method": "ar5",
+      "co2e_calculation_origin": "source",
+      "emission_factor": {
+        "id": "passenger_flight-route_type_na-aircraft_type_na-distance_gt_300mi_lt_2300mi-class_na-rf_na",
+        "source": "GHG Protocol",
+        "year": "2021",
+        "region": "US",
+        "category": "Air Travel",
+        "lca_activity": "fuel_combustion"
+      },
+      "constituent_gases": {
+        "co2e_total": 2377.776764942734,
+        "co2e_other": null,
+        "co2": 2357.73085182534,
+        "ch4": 0.010401753758052969,
+        "n2o": 0.07454590193271295
+      }
+    }
+  ]
+}
