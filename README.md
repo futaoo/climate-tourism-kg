@@ -13,22 +13,12 @@ This project aims to develop a Knowledge Graph in the Climate-Tourism domain, fo
 
 # Installation
 
-## Note: There are two methods to install this project. Method 1 is the fastest way of seeing the graph in your browser without any installation. Method 2 runs locally on your desktop.
+## Note: this repository provides source scripts that serve mostly as illustrations for the journal manuscript's methodology section. To install our Climate-Toursim Knowledge Graph even faster, we suggest following the steps below, which include pre-configured Neo4j dumps for usage with the Neo4J Desktop.. 
 
-### Method 1 (fastest):
-
-1. Navigate to [this](https://csgitlab.ucd.ie/jarrettpierse/fyp_climate_tourism_kg/-/blob/master/user-survey/fyp-survey.pdf) part of the repository.
-
-2. Follow the step-by-step PDF for the user experience survey. The access URL, username and password are provided in this PDF.
-
-3. If you have any issues connecting (this may happen as the cloud database is paused after 3 days of inactivity), please contact me via email jarrett.pierse@ucdconnect.ie
-
-
-### Method 2 (slowest):
 
 1. Neo4j Desktop is required to run the .dump dataset. This can be downloaded from [here](https://neo4j.com/download/). 
 
-2. Once installed, create a new project and select 'Add' > 'File' and select one of the .dump files located [here](https://csgitlab.ucd.ie/jarrettpierse/fyp_climate_tourism_kg/-/tree/master/neo4j/dumps).
+2. Once installed, create a new project and select 'Add' > 'File' and select one of the .dump files located [here](https://github.com/futaoo/climate-tourism-kg/tree/main/neo4j-dumps).
 
 3. In the 'File' window at the bottom of your project, hover over the .dump file and select the options (...)
 
