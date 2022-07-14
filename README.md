@@ -1,10 +1,10 @@
-# README.md
+# Improving Tourism Recommendation from Climate Data Using Knowledge Graphs
 
 
 
 # About
 This repository covers the implementation work done as part of the journal manuscript:
->Improving Tourism Recommendation from Climate Data Using Knowledge Graphs, J. Pierse, J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, *[UNDER REVIEW]*.
+>J. Pierse, J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, **Improving Tourism Recommendation from Climate Data Using Knowledge Graphs**, *[UNDER REVIEW]*.
 
 # Abstract
 A Knowledge Graph is a type of knowledge representation that utilises a graph structure to connect and relate data of different types. The Climate-Tourism domain is data-rich with a vast amount of data generated everyday. Knowledge Graphs offer benefits in relating vast amounts of data but are underutilised in this domain.
