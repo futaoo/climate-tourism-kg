@@ -1,17 +1,10 @@
 # README.md
 
-# Project Details
 
-|   Project Details   |   |
-|   --- |   --- |
-|   **Course**  |   Computer Science   |
-|   **Module**  |   UCD COMP30900 Final Year Project Foundations   |
-|   **Student** |   Jarrett Pierse (18375813) |
-|   **Project Supervisor**  |   Dr. Soumyabrata Dev   |
-|   **Project Title**   |   Connecting Climate & Flight Data Using Knowledge Graphs   |
 
 # About
-This repository covers the implementation work done as part of the Final Year Project, in part fulfilment of BSc (Hons.) Computer Science degree from University College Dublin.
+This repository covers the implementation work done as part of the journal manuscript:
+>Improving Tourism Recommendation from Climate Data Using Knowledge Graphs, J. Pierse, J. Wu, F. Orlandi, D. O'Sullivan, and S. Dev, *[UNDER REVIEW]*.
 
 # Abstract
 A Knowledge Graph is a type of knowledge representation that utilises a graph structure to connect and relate data of different types. The Climate-Tourism domain is data-rich with a vast amount of data generated everyday. Knowledge Graphs offer benefits in relating vast amounts of data but are underutilised in this domain.
